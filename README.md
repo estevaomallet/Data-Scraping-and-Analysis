@@ -56,8 +56,3 @@ Este repositório contém uma coleção de projetos desenvolvidos para demonstra
 ## Contribuindo
 
 Este repositório é destinado a ser um portfólio pessoal e não aceita contribuições externas no momento. Caso tenha alguma dúvida ou queira conversar sobre os projetos, sinta-se à vontade para entrar em contato!
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o [arquivo LICENSE](LICENSE) para mais detalhes.
-
