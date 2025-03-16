@@ -1,35 +1,63 @@
-# Portfólio de Projetos Python para BI e Análise de Dados
+# Meu Portfólio de Projetos Python para BI e Análise de Dados
 
-Este repositório contém projetos desenvolvidos em **Python** voltados para **Business Intelligence (BI)** e **análise de dados**. O foco está em técnicas de **web scraping**, **análise de sentimentos** em avaliações de clientes e **transformação de dados** para gerar insights acionáveis.
+Este repositório contém uma coleção de projetos desenvolvidos para demonstrar minhas habilidades em Python, análise de dados, Business Intelligence (BI), e web scraping. O foco é mostrar minha capacidade de trabalhar com dados reais, construir soluções e gerar insights valiosos.
 
-## Projetos Incluídos
+## Projetos no Portfólio
 
-### 1. **Web Scraping para Insights de Mercado**
-- Objetivo: Coletar dados de websites para obter informações sobre produtos e realizar análise de tendências.
-- Bibliotecas utilizadas: `BeautifulSoup`, `requests`, `pandas`.
-  
-### 2. **Análise de Sentimentos em Avaliações de Clientes**
-- Objetivo: Analisar o sentimento de avaliações de clientes para entender as percepções sobre produtos.
-- Bibliotecas utilizadas: `TextBlob`, `nltk`, `pandas`.
+### 1. **Análise de Dados de Vendas**
+- **Objetivo**: Analisar grandes volumes de dados de vendas para entender tendências de mercado.
+- **Tecnologias utilizadas**: `pandas`, `matplotlib`, `seaborn`.
+- **Descrição**: Neste projeto, os dados de vendas foram processados, limpos e visualizados para identificar padrões de compra, sazonalidade e segmentação de clientes.
 
-### 3. **Business Intelligence com Dados em SQL**
-- Objetivo: Manipular grandes volumes de dados, realizando análises exploratórias e criando relatórios para tomada de decisão.
-- Ferramentas utilizadas: `SQL`, `SQLite`, `pandas`.
+### 2. **Scraping de Produtos de E-commerce**
+- **Objetivo**: Coletar dados de produtos de sites de e-commerce para análise de mercado.
+- **Tecnologias utilizadas**: `BeautifulSoup`, `requests`, `pandas`.
+- **Descrição**: Desenvolvi um scraper para coletar informações de produtos como preços, avaliações e especificações de sites de e-commerce para análise competitiva e de tendências.
 
-## Como Usar
+### 3. **Análise de Sentimentos de Avaliações de Clientes**
+- **Objetivo**: Analisar as avaliações de clientes de produtos e classificar os sentimentos expressos.
+- **Tecnologias utilizadas**: `nltk`, `pandas`, `sklearn`.
+- **Descrição**: Realizei a análise de sentimentos em avaliações de clientes, utilizando técnicas de processamento de linguagem natural (NLP) para categorizar as avaliações como positivas, negativas ou neutras.
 
-1. Clone este repositório:
+### 4. **Visualizações de Dados**
+- **Objetivo**: Criar visualizações interativas e informativas para análises de dados.
+- **Tecnologias utilizadas**: `matplotlib`, `seaborn`.
+- **Descrição**: Elaborei gráficos interativos e dashboards para visualizar os dados e facilitar a interpretação das informações.
+
+## Como Executar
+
+1. Clone este repositório em sua máquina local:
+
     ```bash
     git clone https://github.com/seu-usuario/seu-repositorio.git
     ```
 
-2. Instale as dependências:
+2. Navegue até a pasta do repositório:
+
+    ```bash
+    cd seu-repositorio
+    ```
+
+3. Instale as dependências necessárias:
+
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Execute os scripts conforme as instruções de cada projeto.
+4. Execute os scripts ou notebooks conforme descrito em cada diretório de projeto.
+
+## Tecnologias e Bibliotecas Utilizadas
+- **Python 3.x**
+- **Pandas**: Para manipulação e análise de dados.
+- **Matplotlib e Seaborn**: Para visualização de dados.
+- **BeautifulSoup**: Para web scraping.
+- **NLTK e Scikit-learn**: Para análise de sentimentos.
 
 ## Contribuindo
 
-Sinta-se à vontade para contribuir com melhorias ou enviar pull requests. Agradecemos por qualquer feedback ou contribuição!
+Este repositório é destinado a ser um portfólio pessoal e não aceita contribuições externas no momento. Caso tenha alguma dúvida ou queira conversar sobre os projetos, sinta-se à vontade para entrar em contato!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o [arquivo LICENSE](LICENSE) para mais detalhes.
+
